@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @YousufShohag
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Php an and laravel and become a good person
-- 💞️ I’m looking to collaborate on it
-- 📫 How to reach me love
+💻 Passionate Web Developer in the making!
+I’m exploring the world of PHP & Laravel, with a dream of becoming not only a skilled developer but also a good human being.
 
-<!---
-YousufShohag/YousufShohag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 What I’m Interested In
+-Building beautiful and functional web applications
+-Learning and sharing knowledge about modern web development
+-Exploring open-source and collaborating with amazing developers
+
+🌱 What I’m Currently Learning
+-PHP & Laravel (backend magic ✨)
+-Writing clean & maintainable code
+-Best practices in software development
+
+🤝 Open to Collaborate On
+-Laravel / PHP projects
+-Web applications that help people
+-Learning-focused communities and open-source contributions
+
+
+📫 How to Reach Me
+
+💌 Email:yousufshohag90@gmail.com.com
+🌐 Portfolio (Coming Soon 🚀)
+💙 Let’s connect and grow together!
