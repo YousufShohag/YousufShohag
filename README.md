@@ -1,5 +1,4 @@
-# 💫 About Me:
-💻 Passionate Web Developer in the making!<br>I’m exploring the world of PHP & Laravel, with a dream of becoming not only a skilled developer but also a good human being.<br><br>👀 What I’m Interested In<br>-Building beautiful and functional web applications<br>-Learning and sharing knowledge about modern web development<br>-Exploring open-source and collaborating with amazing developers<br><br>🌱 What I’m Currently Learning<br>-PHP & Laravel (backend magic ✨)<br>-Writing clean & maintainable code<br>-Best practices in software development<br><br>🤝 Open to Collaborate On<br>-Laravel / PHP projects<br>-Web applications that help people<br>-Learning-focused communities and open-source contributions<br><br><br>📫 How to Reach Me<br><br>💌 Email:yousufshohag90@gmail.com.com<br>🌐 Portfolio (Coming Soon 🚀)<br>💙 Let’s connect and grow together!<br>
+
 
 
 ## 🌐 Socials:
